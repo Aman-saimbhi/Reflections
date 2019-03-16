@@ -16,8 +16,12 @@ change?
    we can compare the staging area with the most recent commit in the repository
    with this we can assure that before commit we have only made one change.
 
-What are some situations when branches would be helpful in keeping your history
+4)What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+   when we dont want the linear chain , and we want to use the code sor something
+   different which we need in some other case , we can make a branch of that version
+   and comit the changes.
 
 How do the diagrams help you visualize the branch structure?
 
