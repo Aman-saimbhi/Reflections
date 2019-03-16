@@ -1,0 +1,44 @@
+1)How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+   comparing the two files using diff helps us to understand the problem in such a way
+   that the differences in the new file are indicated , so that you can compare the
+   code ,and locate the error.
+
+2)How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+       If we will have access to our previous versions of the program , we can compare different
+       versions , and compare the output , and then finally get the desired output.
+
+
+3) What do you think are the pros and cons of manually choosing when to create a
+   commit, like you do in Git, vs having versions automatically saved, like Google
+   docs does?
+
+       when we manually commit a vesion , we can get the different versions
+       which are more sensible and the different versions look more clean and readable.
+
+4)Why do you think some version control systems, like Git, allow saving multiple
+   files in one commit, while others, like Google Docs, treat each file separately?
+
+      as git allows us to create a repository ie multiple files can be stored and commit at
+      the same time , this is very useful when the files are linked with each other.
+
+
+5) How can you use the commands git log and git diff to view the history of files?
+
+       we can use the git log to get the history of all the commits , then we can compare
+       two commits using diff to see what changes were made.
+
+6) How might using version control make you more confident to make changes that
+   could break something?
+
+       version control can be used very conveniently to get the locations and from where
+       we got the error , we can use it to even make the head a different version
+       to check whether that commit has the error or not.
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+        I have a project in which i am doing data analysis , for different visualisations
+        i was making different programs but now i can make different versions of the same program
+        and use it using git , and by making the head to different commits.
