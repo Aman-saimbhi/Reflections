@@ -23,7 +23,10 @@ organized? How would branches help?
    different which we need in some other case , we can make a branch of that version
    and comit the changes.
 
-How do the diagrams help you visualize the branch structure?
+5)How do the diagrams help you visualize the branch structure?
+
+   as by the diagram we can see the structure of the branches and can understand
+   how the master branch is leading and other branches are formed from it.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
