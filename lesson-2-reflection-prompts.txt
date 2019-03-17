@@ -28,8 +28,13 @@ organized? How would branches help?
    as by the diagram we can see the structure of the branches and can understand
    how the master branch is leading and other branches are formed from it.
 
-What is the result of merging two branches together? Why do we represent it in
+6)What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+  when we merge two branches all the commits by one branch
+  are merged into the other branch , so this way we can access all the commits
+  which are merged, we represent it in the diagram in a way that it looks
+  clear that the commits from both the branches are now accessible by the merged master branch.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
