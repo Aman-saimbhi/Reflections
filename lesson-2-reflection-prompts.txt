@@ -36,5 +36,10 @@ the diagram the way we do?
   which are merged, we represent it in the diagram in a way that it looks
   clear that the commits from both the branches are now accessible by the merged master branch.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+7)What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+   pros are that it saves a lot of time as git automatically runs the algorith
+   and figure out what will be required in the final branch , the con is in the
+   case of ambiguity , when there are two different versions of the same file in both the branches
+   then git gets confused whether to take the version of which branch into the final
+   merge , in that case we have to do the merge manually,by resolving the issue.
