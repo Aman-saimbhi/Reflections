@@ -5,10 +5,13 @@ local?
     it is useful when there are number of people working on the same project
     and everyone needs to push their changes in the main version.
 
-Why might you want to always pull changes manually rather than having Git
+2)Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    we might want to pull the changes in the repository , because maybe i am working on
+    some different thing and for any reason i dont want the commit which is pushed
+    by some another person in my repository in these types of cases
+    manual pull is required.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
