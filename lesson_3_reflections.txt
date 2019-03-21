@@ -21,10 +21,12 @@ use one instead of another?
     branches are used when we want to use the master branch and add some
     additional feature for some another purpose.
 
-What is the benefit of having a copy of the last known state of the remote
+4)What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    the benefit is that if we will have the copy we can know that whether
+    we are ahead of the intitial state so that we can merge further after
+    updating the location of origin/master.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
