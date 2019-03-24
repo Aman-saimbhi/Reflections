@@ -36,7 +36,9 @@ and what would be harder?
     consuming and highly unorganised. the only benefit of using that will
     be that you dont have to be familiar with git to use this.
 
-When would you want to make changes in a separate branch rather than directly in
+6)When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    we would want to make separate branch for something when we want
+    some feedback on the additional code before adding it to the master
+    branch. this approach results less bugs and errors in main master branch.
