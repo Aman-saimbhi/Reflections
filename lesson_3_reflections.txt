@@ -28,10 +28,13 @@ stored locally?
     we are ahead of the intitial state so that we can merge further after
     updating the location of origin/master.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5)How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    the one way I can think of collaborating without github is using mail,
+    and sending entire code fragments , which is very difficult and time
+    consuming and highly unorganised. the only benefit of using that will
+    be that you dont have to be familiar with git to use this.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
